@@ -1,8 +1,8 @@
-package display;
+package display.display.java;
 
 import java.awt.*;
 
-public class Main{
+public class Display{
 
 	public static void main(String[] args) {
 
