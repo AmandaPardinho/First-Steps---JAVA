@@ -14,21 +14,11 @@ public class portion {
         Integer boto = 600;
         Integer mapinguari = 1000;
         Integer iara = 150;
-        Integer i;
-        Integer sum = 0;
+        Integer[] cassava = {300, 1500, 600, 1000, 150};
 
         Scanner scanner = new Scanner(System.in);
 
-        List<Integer> cassava = new ArrayList<>();
-        for(i = 0; i <= 5; i++){
-            cassava.add(scanner.nextInt());
-        }
-
-        for(Integer n: cassava){
-            sum += n.intValue();
-            System.out.println(sum);
-        }
-
+        Integer sum = cassava[0] + cassava[1] + cassava[2] + cassava[3] + cassava[4];
+        System.out.println("Dona Chica will need " + sum + " g of cassava");
     }
- 
 }
