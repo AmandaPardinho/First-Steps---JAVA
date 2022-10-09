@@ -1,4 +1,4 @@
-package language
+package display.language.java;
 
 import java.util.Locale;
 
