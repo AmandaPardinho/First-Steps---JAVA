@@ -13,7 +13,24 @@ public class SeveralReadings {
 
         System.out.println("Your name is " + text);
 
+        int code;
+        double price;
+        String name, type1, type2;
+
+        System.out.println("Enter the code:");
+        type1 = scanner.nextLine();
+        code = Integer.parseInt(type1);
+
+        System.out.println("Enter price:");
+        type2 = scanner.nextLine();
+        price = Double.parseDouble(type2);
+
+        System.out.println("Enter name:");
+        name = scanner.nextLine();
+
+        System.out.println("You typed " + name + " R$ " + price + " code " + code);
         
+
 
     }
 }
