@@ -32,5 +32,6 @@ public class SeveralReadings {
         
         System.out.printf("You typed %d, %s, R$ %.2f\n", code, name, price);
 
+        scanner.close();
     }
 }
