@@ -19,5 +19,7 @@ public class ReversingNumbers{
         builder.append(number);
 
         System.out.println("The number typed was " + number + " and its inverse is " + builder.reverse());
+
+        scanner.close();
     }
 }
