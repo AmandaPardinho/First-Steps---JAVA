@@ -28,9 +28,9 @@ public class SeveralReadings {
         System.out.println("Enter name:");
         name = scanner.nextLine();
 
-        System.out.println("You typed " + name + " R$ " + price + " code " + code);
+        //System.out.println("You typed " + name + " R$ " + price + " code " + code);
         
-
+        System.out.printf("You typed %d, %s, R$ %.2f\n", code, name, price);
 
     }
 }
