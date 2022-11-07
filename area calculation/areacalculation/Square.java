@@ -1,5 +1,4 @@
 package areacalculation;
-
 import java.util.Scanner;
 
 public class Square{
