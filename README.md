@@ -27,10 +27,10 @@
 >* Mapinguari eats 1000;
 >* Iara eats 150.
 >
-> Dona chica in turn always eats 225 grams of cassava. Tired of every year having to figure out how much cassava to 
-> prepare she contacted you to write a program that tells how much cassava should be prepared in grams.
-> ---
-> This problem was suggested on beecrowd website. 
+> Dona chica in turn always eats 225 grams of cassava. Tired of every year having to figure out how much cassava to prepare she contacted you to write a program that tells how much cassava should be prepared in grams.
+> 
+> This problem was suggested on [beecrowd](https://www.beecrowd.com) website. 
+> 
 ---
 ![Image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
